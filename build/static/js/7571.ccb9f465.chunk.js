@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprompt_react=self.webpackChunkprompt_react||[]).push([[7571],{7571:function(e,t,r){r.r(t);var a=r(70885),n=r(72791),c=r(16871),u=r(47217),f=r(80184);t.default=function(){var e=(0,u.aU)(),t=(0,a.Z)(e,1)[0],r=(0,u.aF)(),p=(0,a.Z)(r,1)[0];return(0,n.useEffect)((function(){t()}),[t]),(0,f.jsx)(f.Fragment,{children:p&&(0,f.jsx)(c.Fg,{to:"/auth/login",replace:!0})})}}}]);
+//# sourceMappingURL=7571.ccb9f465.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprompt_react=self.webpackChunkprompt_react||[]).push([[4750],{83029:function(c,a,e){e(72791);a.Z=e.p+"static/media/amazon.b99a7cc44be45747096d49c9cb2ffe77.svg"},19064:function(c,a,e){e(72791);a.Z=e.p+"static/media/google.fc295ce963de13e6f58e4934f288298f.svg"},85557:function(c,a,e){e(72791);a.Z=e.p+"static/media/paypal.2a7be383aae46294cfc76c258d7f3de8.svg"},44934:function(c,a,e){e(72791);a.Z=e.p+"static/media/shopify.a3ea771201c81cd264d5a55f469adc96.svg"}}]);
+//# sourceMappingURL=4750.13102f61.chunk.js.map
